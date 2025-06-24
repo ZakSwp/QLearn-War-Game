@@ -1,9 +1,7 @@
 # Description
-This project was prepared in the context of the Operational Research II course at Ecole Polytechnique de Tunisie.
+This project was carried out as part of the Operational Research II course at Ecole Polytechnique de Tunisie, with the goal of implementing some of the methods seen in the course to solve an adequate real life problem.
 
-The goal of this project is to implement one of the algorithms seen in the course to solve an adequate real life problem.
-
-This code is a simulation of a  simplified adversarial scenario where two agents start at opposite nodes of a procedurally generated graph and compete to capture the enemy team's source node. 
+This code is a simulation of a simplified adversarial scenario (wargame) where two agents start at opposite nodes of a procedurally generated graph and compete to capture the enemy team's source node. 
 
 # Requirements
 - indexed-gzip (latest)
